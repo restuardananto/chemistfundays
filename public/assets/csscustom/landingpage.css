@@ -1,0 +1,19 @@
+.tombol {
+    background: #FE7878;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+nav {
+    position: sticky;
+    justify-content: center;
+}
+
+.navbar {
+    justify-items: center;
+}
+
+p {
+    color: #000000;
+    font-weight: bold;
+}
