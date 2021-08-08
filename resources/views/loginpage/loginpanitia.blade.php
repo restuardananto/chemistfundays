@@ -7,7 +7,7 @@
     <h1>Login Panitia</h1>
     <h3>disini dikasih tampilan lagi yaa</h3>
     <button><a href="/">kembali</a></button>
-    <button><a href="/loginpeserta">login peserta</a></button>
+    <button><a href="/loginpesertapage">login peserta</a></button>
     <p>jika belum punya akun daftar dulu disini</p>
     <button><a href="/daftarpeserta">daftar sebagai panitia</a></button>
 

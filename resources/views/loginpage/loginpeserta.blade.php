@@ -7,11 +7,11 @@
     <h1>Login Peserta</h1>
     <h3>Lengkapi lagi tampilannya</h3>
     <button><a href="/">kembali</a></button>
-    <button><a href="/loginpanitia">login panitia</a></button>
+    <button><a href="/loginpanitiapage">login panitia</a></button>
     <p>jika belum punya akun daftar dulu disini</p>
-    <button><a href="/daftarpeserta">daftar sebagai peserta</a></button>
+    <button><a href="/signuppeserta">daftar sebagai peserta</a></button>
 
-    <form action="/login/peserta" method="POST">
+    <form action="/login/pesertapage" method="POST">
         @csrf
         <input type="text" name="username" placeholder="username"> <br>
         <input type="password" name="password" placeholder="password"> <br>

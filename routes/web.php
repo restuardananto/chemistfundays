@@ -17,10 +17,14 @@ Route::get('/', function () {
     return view('landingpage');
 });
 
-Route::get('/loginpeserta', function () {
+Route::get('/loginpesertapage', function () {
     return view('loginpage.loginpeserta');
 });
 
-Route::get('/loginpanitia', function () {
+Route::get('/loginpanitiapage', function () {
     return view('loginpage.loginpanitia');
+});
+
+Route::get('/signuppesertapage', function () {
+    return view('signuppage.signuppeserta');
 });
