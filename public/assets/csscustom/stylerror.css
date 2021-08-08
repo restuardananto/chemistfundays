@@ -1,0 +1,44 @@
+body {
+    background-image: url(https://scontent.fbpn2-1.fna.fbcdn.net/v/t1.6435-9/220482614_4409644512430892_1546401994474017888_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeEYf7eARgjfGwGLGCST_ETrGdn1PifEEFUZ2fU-J8QQVXmrUC1or1hTKzed89ffUqsyefiLv4x06qz8CI6dGDBO&_nc_ohc=iSCY5qE50NgAX8aRU0p&_nc_ht=scontent.fbpn2-1.fna&oh=b4f8d3b9110bd15271f650d9876072dc&oe=61231E63);
+    background-size: 600px;
+    background-position: initial
+
+}
+.coba {
+	text-align: center;
+    position: absolute;
+    top: 420px;
+    left: 400px;
+    font-size: 32px;
+    background: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.coba1 {
+	text-align: center;
+    position: absolute;
+    top: 250px;
+    right: 450px;
+    font-size: 42px;
+    background: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.gambar{
+    position: absolute;
+    top: 90px;
+    left: 350px;
+    padding: 0;
+    
+}
+.tombol{
+    position: absolute;
+    width: 152px;
+    height: 48px;
+    right: 550px;
+    top: 590px;
+	
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 19px;
+    line-height: 20px;
+}
