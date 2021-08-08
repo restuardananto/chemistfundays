@@ -1,0 +1,11 @@
+.tombol{
+    border-radius: 40px;
+    background-color:#fe7878;
+    stroke: none;
+    stroke-width: 0px;
+    font-weight: bold;
+}
+
+a {
+    color: black;
+}
