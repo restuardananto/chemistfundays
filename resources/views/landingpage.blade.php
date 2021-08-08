@@ -17,7 +17,7 @@
     <nav class="navbar navbar-expand-lg navbar-light">
       <div class="container d-flex flex-row justify-content-start">
         <a class="navbar-brand" href="/">
-          <img src="{!! asset('assets/img/vector-logo.png') !!}" height="50" width="120"></a>
+          <img src="{!! asset('assets/img/vector-logo.png') !!}" height="50" width="120">
         </a>
           <div class="collapse navbar-collapse d-flex justify-content-end" id="navbarNavAltMarkup">
             <div class="navbar-nav">
@@ -29,5 +29,14 @@
           </div>
       </div>
     </nav>
+
+    <!-- konten -->
+    <div class="container d-flex flex-row justify-content-center">
+      <div class="container">
+        <div class="container">
+          <img src="{!! asset('assets/img/vector-content.png') !!}" width="40%">
+        </div>
+      </div>
+    </div>
   </body>
 </html>
