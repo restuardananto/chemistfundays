@@ -1,3 +1,14 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.navbar .bel {
+    display: flex;
+    width: 25px;
+    height: 25px;
+}
+
 .navbar {
     display: flex;
     flex-direction: row;
@@ -15,8 +26,10 @@
 }
 
 .konten {
-    margin-left: 30px;
-    margin-right: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-image: url(../img/backgroundlanding.png);
+    background-size: cover;
 }
 
 .sec1 {
@@ -88,7 +101,7 @@
 }
 
 .a-button {
-    background-color: burlywood;
+    background-color: #FE7878;
     border-radius: 20px;
     padding: 10px;
     text-decoration: none;

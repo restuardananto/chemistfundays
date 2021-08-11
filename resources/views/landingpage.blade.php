@@ -13,7 +13,7 @@
       <a href="/">Home</a>
       <a href="/loginpesertapage">Login</a>
       <a href="/signuppesertapage">Signup</a>
-      <a href=""><img src="" alt=""></a>
+      <a class="bel" href=""><img src="{!! asset('assets/img/bell.svg') !!}" alt=""></a>
     </div>
     <div class="sec1">
       <div class="sec1bagkiri">
